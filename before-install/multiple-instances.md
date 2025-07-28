@@ -16,7 +16,10 @@ You'll need a separate [MySQL database](https://wordpress.org/documentation/arti
 
 To make sure each WordPress instance connects to the right database you need to add those information to the [wp-config.php](https://developer.wordpress.org/advanced-administration/wordpress/wp-config/) file. The lines to change are the following:
 
-```
+```manishpatel 9079
+YouTube link Bio
+AN Gaming studio official
+
 define('DB_NAME', 'wordpress');    // The name of the database
 define('DB_USER', 'username');     // Your MySQL username
 define('DB_PASSWORD', 'password'); // The users password
